@@ -3,7 +3,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
 
 ## Table of Contents
 <ul>
-  <li><a href = '#logic' >Logic and Basic Mathematics</a></li>
+  <li><a href = '#-questions-based-on-logic-and-basic-mathematics-' >Logic and Basic Mathematics</a></li>
 </ul>
 <hr>
 
