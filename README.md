@@ -89,10 +89,10 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td><a href = '#'>Solution</a></td>
     </tr>
     <tr>
-      <td>Sea and Islands<td>
-      <td>Code Forces <td>
-      <td><a href = 'https://codeforces.com/contest/544/problem/B'>Problem Link</a><td>
-      <td><a href = '#'>Solution</a><td>
+      <td>Sea and Islands</td>
+      <td>Code Forces </td>
+      <td><a href = 'https://codeforces.com/contest/544/problem/B'>Problem Link</a></td>
+      <td><a href = '#'>Solution</a></td>
     </tr>
     <tr>
       <td>Almost Sorted</td>
@@ -147,10 +147,10 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td><a href = '#'>Solution</a></td>
     </tr>
     <tr>
-      <td>Weird list<td>
-      <td> CodeChef <td>
-      <td><a href = 'https://www.codechef.com/problems/WLIST'>Problem Link</a><td>
-      <td><a href = '#'>Solution</a><td>
+      <td>Weird list</td>
+      <td> CodeChef </td>
+      <td><a href = 'https://www.codechef.com/problems/WLIST'>Problem Link</a></td>
+      <td><a href = '#'>Solution</a></td>
     </tr>
     <tr>
       <td>Coin Piles</td>
