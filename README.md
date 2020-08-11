@@ -157,8 +157,8 @@
       <td><a href = '#'>Solution</a><td>
     </tr>
     <tr>
-      <td>Chef and Maximum Star Value<td>
-      <td>Weird list <td>
+      <td>Weird list<td>
+      <td> CodeChef <td>
       <td><a href = 'https://www.codechef.com/problems/WLIST'>Problem Link</a><td>
       <td><a href = '#'>Solution</a><td>
     </tr>
