@@ -48,7 +48,7 @@
     <tr>
       <td>Two Arrays And Swaps<td>
       <td>Code Forces <td>
-      <td>< target="_blank" href = 'https://codeforces.com/contest/1353/problem/B'>Problem Link</a><td>
+      <td><a target="_blank" href = 'https://codeforces.com/contest/1353/problem/B'>Problem Link</a><td>
       <td><a target="_blank" href = '#'>Solution</a><td>
     <tr>
     <tr>
