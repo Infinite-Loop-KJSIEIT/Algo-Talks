@@ -35,6 +35,18 @@
       <td><a href = 'https://codeforces.com/contest/262/problem/B'>Problem Link</a><td>
       <td><a href = '#'>Solution</a><td>
     <tr>
+    <tr>
+      <td>Designer PDF Viewer<td>
+      <td>HackerRank <td>
+      <td><a href = 'https://www.hackerrank.com/challenges/designer-pdf-viewer/problem'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
+    <tr>
+    <tr>
+      <td>Happy Ladybugs <td>
+      <td>HackerRank <td>
+      <td><a href = 'https://www.hackerrank.com/challenges/happy-ladybugs/problem'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
+    <tr>
    </table>
       
    <h5>Level :  Medium </h5>
