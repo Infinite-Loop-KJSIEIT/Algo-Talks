@@ -167,10 +167,10 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
    </table>
    <table>
     <tr>
-      Problem Name 
-      Platform 
-      Problem Link 
-      Solution 
+      <th>Problem Name</th> 
+      <th>Platform </th>
+      <th>Problem Link </th>
+      <th>Solution </th>
     </tr>
     <tr>
       01 Game
