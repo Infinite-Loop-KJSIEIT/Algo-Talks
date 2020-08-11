@@ -1,5 +1,5 @@
 # Algo-Talks
-
+A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Question grouped by type.
 ## Table of Contents
 <ul>
   <li><a href = '#logic' >Logic and Basic Mathematics</a></li>
