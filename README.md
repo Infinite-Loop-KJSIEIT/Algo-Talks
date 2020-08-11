@@ -20,14 +20,14 @@
     <tr>
       <td>Sequence with Digits<td>
       <td>Code Forces <td>
-      <td><a target="_blank" href = 'https://codeforces.com/contest/1355/problem/A'>Problem Link</a><td>
-      <td><a target="_blank" href = '#'>Solution</a><td>
+      <td><a href = 'https://codeforces.com/contest/1355/problem/A'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
     <tr>
     <tr>
       <td>Ladder<td>
       <td>Code Forces <td>
-      <td><a target="_blank" href = 'https://codeforces.com/contest/279/problem/C'>Problem Link</a><td>
-      <td><a target="_blank" href = '#'>Solution</a><td>
+      <td><a href = 'https://codeforces.com/contest/279/problem/C'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
     <tr>
     <tr>
       <td>Roma and Changing Signs<td>
@@ -48,14 +48,14 @@
     <tr>
       <td>Two Arrays And Swaps<td>
       <td>Code Forces <td>
-      <td><a href = 'https://codeforces.com/contest/1353/problem/B' target="_blank" >Problem Link</a><td>
-      <td><a target="_blank" href = '#'>Solution</a><td>
+      <td><a href = 'https://codeforces.com/contest/1353/problem/B'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
     <tr>
     <tr>
       <td>Most Unstable Array<td>
       <td>Code Forces <td>
-      <td><a target="_blank" href = 'https://codeforces.com/contest/1353/problem/A'>Problem Link</a><td>
-      <td><a target="_blank" href = '#'>Solution</a><td>
+      <td><a href = 'https://codeforces.com/contest/1353/problem/A'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
     <tr>
     <tr>
       <td>Maria Breaks the Self-isolation<td>
@@ -66,8 +66,8 @@
     <tr>
       <td>Sea and Islands<td>
       <td>Code Forces <td>
-      <td><a target="_blank" href = 'https://codeforces.com/contest/544/problem/B'>Problem Link</a><td>
-      <td><a target="_blank" href = '#'>Solution</a><td>
+      <td><a href = 'https://codeforces.com/contest/544/problem/B'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
     <tr>
    </table>
    <h5>Level :  Hard </h5>
@@ -79,10 +79,22 @@
       <th>Solution <th>
     <tr>
     <tr>
-      <td>Problem Name <td>
-      <td>Platform <td>
-      <td>Problem Link <td>
-      <td>Solution <td>
+      <td>01 Game<td>
+      <td>Code Forces <td>
+      <td><a href = 'https://codeforces.com/problemset/problem/1373/B'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
+    <tr>
+    <tr>
+      <td>Celex Update<td>
+      <td>Code Forces <td>
+      <td><a href = 'https://codeforces.com/contest/1358/problem/C'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
+    <tr>
+    <tr>
+      <td>Sequential Nim<td>
+      <td>Code Forces <td>
+      <td><a href = 'https://codeforces.com/problemset/problem/1382/B'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
     <tr>
    </table>
       
