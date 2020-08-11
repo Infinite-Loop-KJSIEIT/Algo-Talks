@@ -18,10 +18,22 @@
       <th>Solution <th>
     <tr>
     <tr>
-      <td>Problem Name <td>
-      <td>Platform <td>
-      <td>Problem Link <td>
-      <td>Solution <td>
+      <td>Sequence with Digits<td>
+      <td>Code Forces <td>
+      <td><a href = 'https://codeforces.com/contest/1355/problem/A'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
+    <tr>
+    <tr>
+      <td>Ladder<td>
+      <td>Code Forces <td>
+      <td><a href = 'https://codeforces.com/contest/279/problem/C'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
+    <tr>
+    <tr>
+      <td>Roma and Changing Signs<td>
+      <td>Code Forces <td>
+      <td><a href = 'https://codeforces.com/contest/262/problem/B'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
     <tr>
    </table>
       
@@ -34,10 +46,28 @@
       <th>Solution <th>
     <tr>
     <tr>
-      <td>Problem Name <td>
-      <td>Platform <td>
-      <td>Problem Link <td>
-      <td>Solution <td>
+      <td>Two Arrays And Swaps<td>
+      <td>Code Forces <td>
+      <td><a href = 'https://codeforces.com/contest/1353/problem/B'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
+    <tr>
+    <tr>
+      <td>Most Unstable Array<td>
+      <td>Code Forces <td>
+      <td><a href = 'https://codeforces.com/contest/1353/problem/A'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
+    <tr>
+    <tr>
+      <td>Maria Breaks the Self-isolation<td>
+      <td>Code Forces <td>
+      <td><a href = 'https://codeforces.com/contest/1358/problem/B'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
+    <tr>
+    <tr>
+      <td>Sea and Islands<td>
+      <td>Code Forces <td>
+      <td><a href = 'https://codeforces.com/contest/544/problem/B'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
     <tr>
    </table>
    <h5>Level :  Hard </h5>
