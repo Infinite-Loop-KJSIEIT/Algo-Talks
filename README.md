@@ -173,10 +173,10 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <th>Solution </th>
     </tr>
     <tr>
-      01 Game
-      Code Forces 
-      <a href = 'https://codeforces.com/problemset/problem/1373/B'>Problem Link</a>
-      <a href = '#'>Solution</a>
+      <td>01 Game</td>
+      <td>Code Forces</td> 
+      <td><a href = 'https://codeforces.com/problemset/problem/1373/B'>Problem Link</a></td>
+      <td><a href = '#'>Solution</a></td>
     </tr>
    
    </table>
