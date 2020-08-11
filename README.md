@@ -112,18 +112,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td><a href = 'https://www.codechef.com/LOCJUN17/problems/RIDDLE99/'>Problem Link</a><td>
       <td><a href = '#'>Solution</a><td>
     </tr>
-    <tr>
-      <td>Coin Piles<td>
-      <td>CSES <td>
-      <td><a href = 'https://cses.fi/problemset/task/1754'>Problem Link</a><td>
-      <td><a href = '#'>Solution</a><td>
-    </tr>
-    <tr>
-      <td>D - Cake 123<td>
-      <td>AtCoder <td>
-      <td><a href = 'https://atcoder.jp/contests/abc123/tasks/abc123_d'>Problem Link</a><td>
-      <td><a href = '#'>Solution</a><td>
-    </tr>
+    
    </table>
    <h5>Level :  Hard </h5>
    <table>
@@ -161,6 +150,18 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td>Weird list<td>
       <td> CodeChef <td>
       <td><a href = 'https://www.codechef.com/problems/WLIST'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
+    </tr>
+    <tr>
+      <td>Coin Piles<td>
+      <td>CSES <td>
+      <td><a href = 'https://cses.fi/problemset/task/1754'>Problem Link</a><td>
+      <td><a href = '#'>Solution</a><td>
+    </tr>
+    <tr>
+      <td>D - Cake 123<td>
+      <td>AtCoder <td>
+      <td><a href = 'https://atcoder.jp/contests/abc123/tasks/abc123_d'>Problem Link</a><td>
       <td><a href = '#'>Solution</a><td>
     </tr>
    </table>
