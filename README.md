@@ -16,6 +16,18 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
 ## Table of Contents
 <ul>
   <li><a href = '#-questions-based-on-logic-and-basic-mathematics-' >Logic and Basic Mathematics</a></li>
+  <li><a href = '' >Linear Data Structures</a></li>
+  <li><a href = '' >Linked List</a></li>
+  <li><a href = '' >Mathematics-1</a></li>
+  <li><a href = '' >Searching and sorting</a></li>
+  <li><a href = '' >Recursion and Backtracking</a></li>
+  <li><a href = '' >Greedy</a></li>
+  <li><a href = '' >Trees</a></li>
+  <li><a href = '' >Graphs</a></li>
+  <li><a href = '' >Dynamic Programming</a></li>
+  <li><a href = '' >Bit Manipulation</a></li>
+  <li><a href = '' >Mathematics-2</a></li>
+  
 </ul>
 <hr>
 
