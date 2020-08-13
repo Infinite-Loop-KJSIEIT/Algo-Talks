@@ -1,4 +1,15 @@
 # Algo-Talks
+Algo Talks is a weekly learning series. Each Sunday we take one major topic ranging from graphs 
+to dynamic programming and we go LIVE to solve a bunch of curated problems aimed to better our 
+understanding about those topics. 👨🏻‍💻👩🏻‍💻
+
+`Register Here` : <a href = "https://infiniteloop.club/#events">https://infiniteloop.club/#events</a>
+
+`Follow us for more updates on Instagram:`<a href = "www.instagram.com/infiniteloop.kjsieit" >www.instagram.com/infiniteloop.kjsieit</a>
+
+
+
+
 A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Questions grouped by type.
 
 ## Table of Contents
