@@ -5,7 +5,7 @@ understanding about those topics. 👨🏻‍💻👩🏻‍💻
 
 `Register Here` : <a href = "https://infiniteloop.club/#events">https://infiniteloop.club/#events</a>
 
-`Follow us for more updates on Instagram:`<a href = "www.instagram.com/infiniteloop.kjsieit" >www.instagram.com/infiniteloop.kjsieit</a>
+`Follow us for more updates on Instagram:`<a href = "https://www.instagram.com/infiniteloop.kjsieit/" >www.instagram.com/infiniteloop.kjsieit</a>
 
 `visit us at :` <a href = "https://infiniteloop.club/" >www.infiniteloop.club<a>
 
