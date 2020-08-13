@@ -7,7 +7,7 @@ understanding about those topics. 👨🏻‍💻👩🏻‍💻
 
 `Follow us for more updates on Instagram:`<a href = "www.instagram.com/infiniteloop.kjsieit" >www.instagram.com/infiniteloop.kjsieit</a>
 
-`visit us at :` <a href = "https://www.infiniteloop.club" >www.infiniteloop.club<a>
+`visit us at :` <a href = "https://infiniteloop.club/" >www.infiniteloop.club<a>
 
 
 
@@ -72,6 +72,12 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td><a href = 'https://www.codechef.com/ENFE2019/problems/DIETCOKE'>Problem Link</a></td>
       <td><a href = '#'>Solution</a></td>
     </tr>
+    <tr>
+      <td>Sum and maximum possible LCM...</td>
+      <td>GFG </td>
+      <td><a href = 'https://www.geeksforgeeks.org/find-two-numbers-with-given-sum-and-maximum-possible-lcm/'>Problem Link</a></td>
+      <td><a href = '#'>Solution</a></td>
+    </tr>
    </table>
       
    <h5>Level :  Medium </h5>
@@ -122,6 +128,12 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td>The Riddler</td>
       <td>CodeChef </td>
       <td><a href = 'https://www.codechef.com/LOCJUN17/problems/RIDDLE99/'>Problem Link</a></td>
+      <td><a href = '#'>Solution</a></td>
+    </tr>
+    <tr>
+      <td>Repetitive addition or subtraction... </td>
+      <td>GFG </td>
+      <td><a href = 'https://www.geeksforgeeks.org/check-if-n-can-be-obtained-by-repetitive-addition-or-subtraction-of-two-given-numbers/'>Problem Link</a></td>
       <td><a href = '#'>Solution</a></td>
     </tr>
     
@@ -176,7 +188,12 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td><a href = 'https://atcoder.jp/contests/abc123/tasks/abc123_d'>Problem Link</a></td>
       <td><a href = '#'>Solution</a></td>
     </tr>
+    <tr>
+      <td>Rearrange an array .../td>
+      <td>GFG </td>
+      <td><a href = 'https://www.geeksforgeeks.org/rearrange-an-array-such-that-product-of-every-two-consecutive-elements-is-a-multiple-of-4/'>Problem Link</a></td>
+      <td><a href = '#'>Solution</a></td>
+    </tr>
    </table>
    
-      
  </section>
