@@ -7,6 +7,7 @@ understanding about those topics. 👨🏻‍💻👩🏻‍💻
 
 `Follow us for more updates on Instagram:`<a href = "www.instagram.com/infiniteloop.kjsieit" >www.instagram.com/infiniteloop.kjsieit</a>
 
+`visit us at : <a href = "https://www.infiniteloop.club" >www.infiniteloop.club<a>`
 
 
 
