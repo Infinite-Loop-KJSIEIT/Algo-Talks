@@ -189,7 +189,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td><a href = '#'>Solution</a></td>
     </tr>
     <tr>
-      <td>Rearrange an array .../td>
+      <td>Rearrange an array ...</td>
       <td>GFG </td>
       <td><a href = 'https://www.geeksforgeeks.org/rearrange-an-array-such-that-product-of-every-two-consecutive-elements-is-a-multiple-of-4/'>Problem Link</a></td>
       <td><a href = '#'>Solution</a></td>
