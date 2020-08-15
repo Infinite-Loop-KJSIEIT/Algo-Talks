@@ -74,7 +74,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
     </tr>
     <tr>
       <td>Weird Algorithm </td>
-      <td>HackerRank </td>
+      <td>CSES </td>
       <td><a href = 'https://cses.fi/problemset/task/1068'>Problem Link</a></td>
       <td><a href = '#'>Solution</a></td>
     </tr>
