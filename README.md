@@ -16,7 +16,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
 ## Table of Contents
 <ul>
   <li><a href = '#-questions-based-on-logic-and-basic-mathematics-' >Logic and Basic Mathematics</a></li>
-  <li>Linear Data Structures</li>
+  <li><a hreaf = '#-questions-based-on-linear-data-structures'>Linear Data Structures</a></li>
   <li>Linked List</li>
   <li>Mathematics-1</li>
   <li>Searching and sorting</li>
@@ -32,7 +32,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
 <hr>
 
 <section id = 'logic'>
-  <h3> Questions based on Logic and basic mathematics </h3>
+  <h2> Questions based on Logic and basic mathematics </h2>
   
   <h5>Level : Easy</h5>
   <table>
@@ -207,14 +207,13 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td><a href = '#'>Solution</a></td>
     </tr>
    </table>
-   
  </section>
 
 
 
-
+<hr>
  <section id = 'linear-ds'>
-    <h3> Questions based on linear data structures.</h3>
+    <h2> Questions based on linear data structures.</h2>
     <h5>Level : Easy</h5>
     <table>
       <tr>
