@@ -104,25 +104,25 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td>Two Arrays And Swaps</td>
       <td>Code Forces </td>
       <td><a href = 'https://codeforces.com/contest/1353/problem/B'>Problem Link</a></td>
-      <td><a href = '#'>Solution</a></td>
+      <td><a href = 'https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Logic%20and%20basic%20mathematics/Medium/Two%20Arrays%20and%20Swap'>Solution</a></td>
     </tr>
     <tr>
       <td>Most Unstable Array</td>
       <td>Code Forces </td>
       <td><a href = 'https://codeforces.com/contest/1353/problem/A'>Problem Link</a></td>
-      <td><a href = '#'>Solution</a></td>
+      <td><a href = 'https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Logic%20and%20basic%20mathematics/Medium/Most%20Unstable%20Array'>Solution</a></td>
     </tr>
     <tr>
       <td>Maria Breaks the Self-isolation</td>
       <td>Code Forces </td>
       <td><a href = 'https://codeforces.com/contest/1358/problem/B'>Problem Link</a></td>
-      <td><a href = '#'>Solution</a></td>
+      <td><a href = 'https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Logic%20and%20basic%20mathematics/Medium/Maria%20Breaks%20the%20Self-isolation'>Solution</a></td>
     </tr>
     <tr>
       <td>Sea and Islands</td>
       <td>Code Forces </td>
       <td><a href = 'https://codeforces.com/contest/544/problem/B'>Problem Link</a></td>
-      <td><a href = '#'>Solution</a></td>
+      <td><a href = 'https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Logic%20and%20basic%20mathematics/Medium/Sea%20and%20islands'>Solution</a></td>
     </tr>
     <tr>
       <td>Almost Sorted</td>
@@ -134,7 +134,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td>Queen's Attack II</td>
       <td>HackerRank </td>
       <td><a href = 'https://www.hackerrank.com/challenges/queens-attack-2/problem'>Problem Link</a></td>
-      <td><a href = '#'>Solution</a></td>
+      <td><a href = "https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Logic%20and%20basic%20mathematics/Medium/Queen's%20Attack%20II">Solution</a></td>
     </tr>
     <tr>
       <td>The Riddler</td>
