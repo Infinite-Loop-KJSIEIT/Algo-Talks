@@ -214,8 +214,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
 
 
  <section id = 'linear-ds'>
-    <h3> Questions based on linear data structures.  </h3>
-  
+    <h3> Questions based on linear data structures.</h3>
     <h5>Level : Easy</h5>
     <table>
       <tr>
@@ -260,9 +259,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
           <td><a href="https://www.codechef.com/JUNE20B/problems/XYSTR/">Problem Link</a></td>
           <td><a href="">Solution</a></td>
       </tr>
-     
      </table>
-        
      <h5>Level :  Medium </h5>
      <table>
       <tr>
@@ -307,7 +304,6 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td><a href="https://leetcode.com/problems/backspace-string-compare/">Problem Link</a></td>
         <td><a href="">Solution</a></td>
       </tr>
-      
      </table>
      <h5>Level :  Hard </h5>
      <table>
@@ -353,7 +349,6 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td><a href="https://codeforces.com/contest/343/problem/B">Problem Link</a></td>
         <td><a href="">Solution</a></td>
       </tr>
-
      </table>
 </section>
 
