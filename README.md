@@ -162,19 +162,19 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td>01 Game</td>
       <td>Code Forces </td>
       <td><a href = 'https://codeforces.com/problemset/problem/1373/B'>Problem Link</a></td>
-      <td><a href = '#'>Solution</a></td>
+      <td><a href = 'https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Logic%20and%20basic%20mathematics/Hard/01%20Game'>Solution</a></td>
     </tr>
     <tr>
       <td>Celex Update</td>
       <td>Code Forces </td>
       <td><a href = 'https://codeforces.com/contest/1358/problem/C'>Problem Link</a></td>
-      <td><a href = '#'>Solution</a></td>
+      <td><a href = 'https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Logic%20and%20basic%20mathematics/Hard/Celex%20Update'>Solution</a></td>
     </tr>
     <tr>
       <td>Sequential Nim</td>
       <td>Code Forces </td>
       <td><a href = 'https://codeforces.com/problemset/problem/1382/B'>Problem Link</a></td>
-      <td><a href = '#'>Solution</a></td>
+      <td><a href = 'https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Logic%20and%20basic%20mathematics/Hard/Sequential%20Nim'>Solution</a></td>
     </tr>
     <tr>
       <td>Chef and Maximum Star Value</td>
@@ -186,13 +186,13 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td>Weird list</td>
       <td> CodeChef </td>
       <td><a href = 'https://www.codechef.com/problems/WLIST'>Problem Link</a></td>
-      <td><a href = '#'>Solution</a></td>
+      <td><a href = 'https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Logic%20and%20basic%20mathematics/Hard/Weird%20list'>Solution</a></td>
     </tr>
     <tr>
       <td>Coin Piles</td>
       <td>CSES </td>
       <td><a href = 'https://cses.fi/problemset/task/1754'>Problem Link</a></td>
-      <td><a href = '#'>Solution</a></td>
+      <td><a href = 'https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Logic%20and%20basic%20mathematics/Hard/Coin%20Piles'>Solution</a></td>
     </tr>
     <tr>
       <td>D - Cake 123</td>
