@@ -209,3 +209,153 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
    </table>
    
  </section>
+
+
+
+
+ <section id = 'linear-ds'>
+    <h3> Questions based on linear data structures.  </h3>
+  
+    <h5>Level : Easy</h5>
+    <table>
+      <tr>
+        <th>Problem Name </th>
+        <th>Platform </th>
+        <th>Problem Link </th>
+        <th>Solution </th>
+      </tr>
+      <tr>
+          <td>Chef and Street Food</td>
+          <td>Codechef</td>
+          <td><a href="https://www.codechef.com/LRNDSA02/problems/STFOOD">Problem Link</a></td>
+          <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Simple Text Editor</td>
+        <td>HackerRank</td>
+        <td><a href="https://www.hackerrank.com/challenges/simple-text-editor/problem">Problem Link</a></td>
+        <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+          <td>Lapindromes</td>
+          <td>Codechef</td>
+          <td><a href="https://www.codechef.com/problems/LAPIN">Problem Link</a></td>
+          <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+          <td>Hussain Set</td>
+          <td>Codechef</td>
+          <td><a href="https://www.codechef.com/problems/COOK82C">Problem Link</a></td>
+          <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+          <td>Trapping rain water</td>
+          <td>Leet code</td>
+          <td><a href="https://leetcode.com/problems/trapping-rain-water/">Problem Link</a></td>
+          <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+          <td>XYString</td>
+          <td>CodeChef</td>
+          <td><a href="https://www.codechef.com/JUNE20B/problems/XYSTR/">Problem Link</a></td>
+          <td><a href="">Solution</a></td>
+      </tr>
+     
+     </table>
+        
+     <h5>Level :  Medium </h5>
+     <table>
+      <tr>
+        <th>Problem Name </th>
+        <th>Platform </th>
+        <th>Problem Link </th>
+        <th>Solution </th>
+      </tr>
+      <tr>
+        <td>Balanced Brackets</td>
+        <td>HackerRank</td>
+        <td><a href="https://www.hackerrank.com/challenges/balanced-brackets/problem">Problem Link</a></td>
+        <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Maximum Xor Secondary</td>
+        <td>Code Forces</td>
+        <td><a href="https://codeforces.com/problemset/problem/281/D">Problem Link</a></td>
+        <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+        <td>4sum</td>
+        <td>Leet Code</td>
+        <td><a href="https://leetcode.com/problems/4sum/">Problem Link</a></td>
+        <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Eerie planet</td>
+        <td>HackerEarth</td>
+        <td><a href="https://leetcode.com/problems/4sum/">Problem Link</a></td>
+        <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Boats Competition</td>
+        <td>Code Forces</td>
+        <td><a href="https://codeforces.com/contest/1399/problem/C">Problem Link</a></td>
+        <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Backspace String Compare</td>
+        <td>Leet Code</td>
+        <td><a href="https://leetcode.com/problems/backspace-string-compare/">Problem Link</a></td>
+        <td><a href="">Solution</a></td>
+      </tr>
+      
+     </table>
+     <h5>Level :  Hard </h5>
+     <table>
+      <tr>
+        <th>Problem Name </th>
+        <th>Platform </th>
+        <th>Problem Link </th>
+        <th>Solution </th>
+      </tr>
+      <tr>
+        <td>Array Manipulation</td>
+        <td>HackerRank</td>
+        <td><a href="https://www.hackerrank.com/challenges/crush/problem">Problem Link</a></td>
+        <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Largest Rectangle</td>
+        <td>HackerRank</td>
+        <td><a href="https://www.hackerrank.com/challenges/largest-rectangle/problem">Problem Link</a></td>
+        <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Another maximum problem</td>
+        <td>HackerEarth</td>
+        <td><a href="https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/grandmaster/">Problem Link</a></td>
+        <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Largest Square</td>
+        <td>HackerEarth</td>
+        <td><a href="https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/largest-square-3d7a938a/">Problem Link</a></td>
+        <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Longest Substring Without Repeating Characters</td>
+        <td>Leet Code</td>
+        <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Problem Link</a></td>
+        <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Alternating Current</td>
+        <td>Code Forces</td>
+        <td><a href="https://codeforces.com/contest/343/problem/B">Problem Link</a></td>
+        <td><a href="">Solution</a></td>
+      </tr>
+
+     </table>
+</section>
+
+
+ 
