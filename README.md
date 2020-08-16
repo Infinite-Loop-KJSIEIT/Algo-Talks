@@ -46,7 +46,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td>Sequence with Digits</td>
       <td>Code Forces </td>
       <td><a href = 'https://codeforces.com/contest/1355/problem/A'>Problem Link</a></td>
-      <td><a href = '#'>Solution</a></td>
+      <td><a href = 'https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Logic%20and%20basic%20mathematics/Easy/Sequence%20with%20digits'>Solution</a></td>
     </tr>
     <tr>
       <td>Ladder</td>
@@ -58,7 +58,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td>Roma and Changing Signs</td>
       <td>Code Forces </td>
       <td><a href = 'https://codeforces.com/contest/262/problem/B'>Problem Link</a></td>
-      <td><a href = '#'>Solution</a></td>
+      <td><a href = 'https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Logic%20and%20basic%20mathematics/Easy/Roma%20and%20Changing%20Signs'>Solution</a></td>
     </tr>
     <tr>
       <td>Designer PDF Viewer</td>
@@ -70,13 +70,13 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td>Happy Ladybugs </td>
       <td>HackerRank </td>
       <td><a href = 'https://www.hackerrank.com/challenges/happy-ladybugs/problem'>Problem Link</a></td>
-      <td><a href = '#'>Solution</a></td>
+      <td><a href = 'https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Logic%20and%20basic%20mathematics/Easy/Happy%20ladybugs'>Solution</a></td>
     </tr>
     <tr>
       <td>Weird Algorithm </td>
       <td>CSES </td>
       <td><a href = 'https://cses.fi/problemset/task/1068'>Problem Link</a></td>
-      <td><a href = '#'>Solution</a></td>
+      <td><a href = 'https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Logic%20and%20basic%20mathematics/Easy/Weird%20algorithms'>Solution</a></td>
     </tr>
     <tr>
       <td>Chef and Tiles</td>
