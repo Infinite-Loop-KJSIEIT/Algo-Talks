@@ -64,7 +64,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <td>Designer PDF Viewer</td>
       <td>HackerRank </td>
       <td><a href = 'https://www.hackerrank.com/challenges/designer-pdf-viewer/problem'>Problem Link</a></td>
-      <td><a href = '#'>Solution</a></td>
+      <td><a href = 'https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Logic%20and%20basic%20mathematics/Easy/Design%20pdf%20viewer'>Solution</a></td>
     </tr>
     <tr>
       <td>Happy Ladybugs </td>
