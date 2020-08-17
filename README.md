@@ -258,6 +258,12 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
           <td><a href="https://www.codechef.com/JUNE20B/problems/XYSTR/">Problem Link</a></td>
           <td><a href="">Solution</a></td>
       </tr>
+      <tr>
+          <td>Left Rotation</td>
+          <td>HackerRank</td>
+          <td><a href="https://www.hackerrank.com/challenges/array-left-rotation/problem">Problem Link</td>
+          <td><a href="">Solution</a></td>
+      </tr>
      </table>
      <h5>Level :  Medium </h5>
      <table>
@@ -303,6 +309,12 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td><a href="https://leetcode.com/problems/backspace-string-compare/">Problem Link</a></td>
         <td><a href="">Solution</a></td>
       </tr>
+      <tr>
+        <td>Sparse Arrays</td>
+        <td>HackerRank</td>
+        <td><a href="https://www.hackerrank.com/challenges/sparse-arrays/problem">Problem Link</a></td>
+        <td><a href="">Solution</a></td>
+      </tr>
      </table>
      <h5>Level :  Hard </h5>
      <table>
@@ -346,6 +358,12 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td>Alternating Current</td>
         <td>Code Forces</td>
         <td><a href="https://codeforces.com/contest/343/problem/B">Problem Link</a></td>
+        <td><a href="">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Stack Sorting</td>
+        <td>Code Forces</td>
+        <td><a href="https://codeforces.com/contest/911/problem/E">Problem Link</a></td>
         <td><a href="">Solution</a></td>
       </tr>
      </table>
