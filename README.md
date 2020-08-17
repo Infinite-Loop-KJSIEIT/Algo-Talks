@@ -29,6 +29,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
   <li>Mathematics-2</li>
   
 </ul>
+
 ## Session Videos
 <ul>
   <li><a href = 'https://youtu.be/xwK6rYZf9XA' >Session 1: Logic and Basic Mathematics</a></li>
