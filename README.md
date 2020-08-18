@@ -219,7 +219,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
 <hr>
  <section id = 'linear-ds'>
     <h2>Questions based on linear data structures.</h2>
-    <h5>Study material to get you started.</h5>
+    <h4>Study material to get you started.</h4>
     <ul>
       <li>
         Arrays
