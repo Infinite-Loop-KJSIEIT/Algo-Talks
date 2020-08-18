@@ -218,7 +218,77 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
 
 <hr>
  <section id = 'linear-ds'>
-    <h2> Questions based on linear data structures.</h2>
+    <h2>Questions based on linear data structures.</h2>
+    <h5>Study material to get you started.</h5>
+    <ul>
+      <li>
+        Arrays
+        <ul>
+          <li>
+            <a href="https://www.geeksforgeeks.org/introduction-to-arrays/" target="_blank">Geeks For Geeks</a>
+          </li>
+          <li>
+            <a href="https://www.tutorialspoint.com/cprogramming/c_arrays.htm" target="_blank">Tutorials Point</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        Stack
+        <ul>
+          <li>
+            <a href="https://www.geeksforgeeks.org/stack-data-structure/" target="_blank">Geeks For Geeks</a>
+          </li>
+          <li>
+            <a href="https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/tutorial/" target="_blank">Tutorials Point</a>
+          </li>
+          <li>
+            <a href="https://medium.com/omarelgabrys-blog/stacks-and-queues-d96c6f35fae3" target="_blank">Medium (Bonus)</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        Queue
+        <ul>
+          <li>
+            <a href="https://www.geeksforgeeks.org/queue-data-structure/" target="_blank">Geeks For Geeks</a>
+          </li>
+          <li>
+            <a href="https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm" target="_blank">Tutorials Point</a>
+          </li>
+          <li>
+            <a href="https://medium.com/omarelgabrys-blog/stacks-and-queues-d96c6f35fae3" target="_blank">Medium (Bonus)</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        Strings
+        <ul>
+          <li>
+            <a href="https://www.geeksforgeeks.org/string-data-structure/" target="_blank">Geeks For Geeks</a>
+          </li>
+          <li>
+            <a href="https://www.tutorialspoint.com/cprogramming/c_strings.htm" target="_blank">Tutorials Point</a>
+          </li>
+          <li>
+            <a href="https://cp-algorithms.com/" target="_blank">CP Algorithms (Bonus)</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        Hashmap
+        <ul>
+          <li>
+            <a href="https://www.geeksforgeeks.org/java-util-hashmap-in-java-with-examples/" target="_blank">Geeks For Geeks</a>
+          </li>
+          <li>
+            <a href="https://www.javatpoint.com/java-hashmap" target="_blank">Javatpoint</a>
+          </li>
+          <li>
+            <a href="https://cp-algorithms.com/" target="_blank">CP Algorithms (Bonus)</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
     <h5>Level : Easy</h5>
     <table>
       <tr>
