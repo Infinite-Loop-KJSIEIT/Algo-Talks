@@ -369,7 +369,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <tr>
         <td>Eerie planet</td>
         <td>HackerEarth</td>
-        <td><a href="https://leetcode.com/problems/4sum/">Problem Link</a></td>
+        <td><a href="https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/practice-problems/algorithm/weird-planet-2000a170/">Problem Link</a></td>
         <td><a href="">Solution</a></td>
       </tr>
       <tr>
