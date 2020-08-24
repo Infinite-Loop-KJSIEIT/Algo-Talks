@@ -448,7 +448,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
 </section>
 
 <section id = 'linkedlist'>
-  <h2>Questions based on Linked List and String Manipulation</h2>
+  <h2>Questions based on Linked List</h2>
   <h5>Level : Easy</h5>
   <table>
     <tr>
