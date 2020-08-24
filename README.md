@@ -487,6 +487,12 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td><a href="https://www.hackerrank.com/challenges/reverse-a-linked-list/problem">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
     </tr>
+    <tr>
+        <td>Center of a LL</td>
+        <td>binarysearch.io</td>
+        <td><a href="https://www.hackerrank.com/challenges/reverse-a-linked-list/problem">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+    </tr>
     </table>
     <h5>Level :  Medium </h5>
     <table>
@@ -508,6 +514,18 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td><a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
     </tr>
+    <tr>
+        <td>Add two numbers :)</td>
+        <td>LeetCode</td>
+        <td><a href="https://leetcode.com/problems/add-two-numbers/">Problem Link<a></td>
+        <td><a href="#!">Solution</a></td>
+    </tr>
+    <tr>
+        <td>Remove nth node from end</td>
+        <td>LeetCode</td>
+        <td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Problem Link<a></td>
+        <td><a href="#!">Solution</a></td>
+    </tr>
     </table>
     <h5>Level :  Hard </h5>
     <table>
@@ -527,12 +545,6 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
           <td>Reverse Nodes in k-Group</td>
           <td>LeetCode</td>
           <td><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/">Problem Link</a></td>
-          <td><a href="#!">Solution</a></td>
-      </tr>
-      <tr>
-          <td>BOJACK</td>
-          <td>CodeChef</td>
-          <td><a href="https://www.codechef.com/COOK120B/problems/BOJACK">Problem Link</a></td>
           <td><a href="#!">Solution</a></td>
       </tr>
       <tr>
