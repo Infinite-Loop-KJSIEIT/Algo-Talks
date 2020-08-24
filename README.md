@@ -34,6 +34,9 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
 <ul>
   <li><a href = 'https://youtu.be/xwK6rYZf9XA' >Session 1: Logic and Basic Mathematics</a></li>
 </ul>
+<ul>
+  <li><a href = 'https://youtu.be/nnpp5bXxQ9c' >Session 2: Linear Data Structures</a></li>
+</ul>
 <hr>
 
 <section id = 'logic'>
