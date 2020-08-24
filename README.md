@@ -301,7 +301,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
           <td>Chef and Street Food</td>
           <td>Codechef</td>
           <td><a href="https://www.codechef.com/LRNDSA02/problems/STFOOD">Problem Link</a></td>
-          <td><a href="">Solution</a></td>
+          <td><a href="https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Linear%20DS/Easy/Chef%20and%20street%20Food">Solution</a></td>
       </tr>
       <tr>
         <td>Simple Text Editor</td>
