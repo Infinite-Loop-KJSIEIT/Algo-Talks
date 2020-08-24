@@ -533,7 +533,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
           <td><a href="#!">Solution</a></td>
       </tr>
       <tr>
-          <th>Merge K sorted list</th>
+          <td>Merge K sorted list</td>
           <td>LeetCode</td>
           <td><a href="https://leetcode.com/problems/merge-k-sorted-lists/">Problem Link</a></td>
           <td><a href="#!">Solution</a></td>
