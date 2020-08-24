@@ -455,31 +455,31 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <th>Solution </th>
     </tr>
     <tr>
-        <th>Rotate List</th>
+        <td>Rotate List</td>
         <td>LeetCode</td>
         <td><a href="https://leetcode.com/problems/rotate-list/">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
     </tr>
     <tr>
-        <th>Union of Doubly Linked Lists</th>
+        <td>Union of Doubly Linked Lists</td>
         <td>Codeforces</td>
         <td><a href="https://codeforces.com/problemset/problem/847/A">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
     </tr>
     <tr>
-        <th>Remove duplicate elements</th>
+        <td>Remove duplicate elements</td>
         <td>GFG practice</td>
         <td><a href="https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
     </tr>
     <tr>
-        <th>Intersection of Two Linked Lists</th>
+        <td>Intersection of Two Linked Lists</td>
         <td>LeetCode</td>
         <td><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
     </tr>
     <tr>
-        <th>Reverse a linked list</th>
+        <td>Reverse a linked list</td>
         <td>Hackerrank</td>
         <td><a href="https://www.hackerrank.com/challenges/reverse-a-linked-list/problem">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
@@ -494,13 +494,13 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
       <th>Solution </th>
     </tr>
     <tr>
-      <th>Linked List Cycle II</th>
+      <td>Linked List Cycle II</td>
       <td>LeetCode</td>
       <td><a href="https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem">Problem Link</a></td>
       <td><a href="#!">Solution</a></td>
     </tr>
     <tr>
-        <th>Remove Zero Sum Consecutive Nodes...</th>
+        <td>Remove Zero Sum Consecutive Nodes...</td>
         <td>LeetCode</td>
         <td><a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
@@ -515,19 +515,19 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <th>Solution </th>
       </tr>
       <tr>
-          <th>Copy List With Random Pointer</th>
+          <td>Copy List With Random Pointer</td>
           <td>LeetCode</td>
           <td><a href="https://leetcode.com/problems/copy-list-with-random-pointer/">Problem Link</a></td>
           <td><a href="#!">Solution</a></td>
       </tr>
       <tr>
-          <th>Reverse Nodes in k-Group</th>
+          <td>Reverse Nodes in k-Group</td>
           <td>LeetCode</td>
           <td><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/">Problem Link</a></td>
           <td><a href="#!">Solution</a></td>
       </tr>
       <tr>
-          <th>BOJACK</th>
+          <td>BOJACK</td>
           <td>CodeChef</td>
           <td><a href="https://www.codechef.com/COOK120B/problems/BOJACK">Problem Link</a></td>
           <td><a href="#!">Solution</a></td>
