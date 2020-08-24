@@ -307,37 +307,37 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td>Simple Text Editor</td>
         <td>HackerRank</td>
         <td><a href="https://www.hackerrank.com/challenges/simple-text-editor/problem">Problem Link</a></td>
-        <td><a href="">Solution</a></td>
+        <td><a href="https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Linear%20DS/Easy/Simple%20Text%20Editor">Solution</a></td>
       </tr>
       <tr>
           <td>Lapindromes</td>
           <td>Codechef</td>
           <td><a href="https://www.codechef.com/problems/LAPIN">Problem Link</a></td>
-          <td><a href="">Solution</a></td>
+          <td><a href="https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Linear%20DS/Easy/Lapindromes">Solution</a></td>
       </tr>
       <tr>
           <td>Hussain Set</td>
           <td>Codechef</td>
           <td><a href="https://www.codechef.com/problems/COOK82C">Problem Link</a></td>
-          <td><a href="">Solution</a></td>
+          <td><a href="https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Linear%20DS/Easy/Hussain%20Set">Solution</a></td>
       </tr>
       <tr>
           <td>Trapping rain water</td>
           <td>Leet code</td>
           <td><a href="https://leetcode.com/problems/trapping-rain-water/">Problem Link</a></td>
-          <td><a href="">Solution</a></td>
+          <td><a href="https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Linear%20DS/Easy/Trapping%20Rain%20Water">Solution</a></td>
       </tr>
       <tr>
           <td>XYString</td>
           <td>CodeChef</td>
           <td><a href="https://www.codechef.com/JUNE20B/problems/XYSTR/">Problem Link</a></td>
-          <td><a href="">Solution</a></td>
+          <td><a href="https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Linear%20DS/Easy/XYZ%20String">Solution</a></td>
       </tr>
       <tr>
           <td>Left Rotation</td>
           <td>HackerRank</td>
           <td><a href="https://www.hackerrank.com/challenges/array-left-rotation/problem">Problem Link</td>
-          <td><a href="">Solution</a></td>
+          <td><a href="https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Linear%20DS/Easy/Left%20Rotation">Solution</a></td>
       </tr>
      </table>
      <h5>Level :  Medium </h5>
@@ -352,7 +352,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td>Balanced Brackets</td>
         <td>HackerRank</td>
         <td><a href="https://www.hackerrank.com/challenges/balanced-brackets/problem">Problem Link</a></td>
-        <td><a href="">Solution</a></td>
+        <td><a href="https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Linear%20DS/Medium/Balanced%20Brackets">Solution</a></td>
       </tr>
       <tr>
         <td>Maximum Xor Secondary</td>
@@ -382,13 +382,13 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td>Backspace String Compare</td>
         <td>Leet Code</td>
         <td><a href="https://leetcode.com/problems/backspace-string-compare/">Problem Link</a></td>
-        <td><a href="">Solution</a></td>
+        <td><a href="https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Linear%20DS/Medium/Backspace%20String%20Compare">Solution</a></td>
       </tr>
       <tr>
         <td>Sparse Arrays</td>
         <td>HackerRank</td>
         <td><a href="https://www.hackerrank.com/challenges/sparse-arrays/problem">Problem Link</a></td>
-        <td><a href="">Solution</a></td>
+        <td><a href="https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks/tree/master/Linear%20DS/Medium/Sparse%20Array">Solution</a></td>
       </tr>
      </table>
      <h5>Level :  Hard </h5>
