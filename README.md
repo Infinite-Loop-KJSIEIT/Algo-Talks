@@ -526,6 +526,12 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Problem Link<a></td>
         <td><a href="#!">Solution</a></td>
     </tr>
+    <tr>
+        <td>Split Linked List into parts.</td>
+        <td>LeetCode</td>
+        <td><a href="https://leetcode.com/problems/split-linked-list-in-parts/">Problem Link<a></td>
+        <td><a href="#!">Solution</a></td>
+    </tr>
     </table>
     <h5>Level :  Hard </h5>
     <table>
