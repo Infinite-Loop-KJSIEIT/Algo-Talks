@@ -490,7 +490,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
     <tr>
         <td>Center of a LL</td>
         <td>binarysearch.io</td>
-        <td><a href="https://www.hackerrank.com/challenges/reverse-a-linked-list/problem">Problem Link</a></td>
+        <td><a href="https://binarysearch.io/problems/Central-Linked-List">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
     </tr>
     </table>
