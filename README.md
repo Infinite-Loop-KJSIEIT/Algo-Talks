@@ -505,7 +505,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
     <tr>
       <td>Linked List Cycle II</td>
       <td>LeetCode</td>
-      <td><a href="https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem">Problem Link</a></td>
+      <td><a href="https://leetcode.com/problems/linked-list-cycle-ii/">Problem Link</a></td>
       <td><a href="#!">Solution</a></td>
     </tr>
     <tr>
