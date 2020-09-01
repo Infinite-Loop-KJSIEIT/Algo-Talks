@@ -64,10 +64,6 @@ class ListNode:
 
 
 
-def intersection(head1,head2):
-    pass 
-
-    
 
 
 
@@ -130,36 +126,4 @@ class Solution:
 
     
     
-
-def intersection(head1, head2):
-    if head1 is None or head2 is None:
-        return
-    n1 = 0 
-    curr = head1 
-    while curr:
-        n1 +=1 
-        curr = curr.next 
-    n2 = 0 
-    curr = head2
-    while curr:
-        n2 +=1 
-        curr = curr.next 
-    k = abs(n1-n2)
-    if n1 > n2:
-        while k:
-            head1 = head1.next 
-            k -= 1
-    else:
-        while k:
-            head2 = head2.next 
-    
-    while head1 and head2:
-        if head1 == head2:
-            return head1 
-        head1 = head1.next 
-        head2 = head2.next 
-    return None 
-    
-
-
     
