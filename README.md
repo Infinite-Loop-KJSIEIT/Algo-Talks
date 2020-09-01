@@ -562,5 +562,88 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
     </table>
 </section>
 
+<section id = 'maths1'>
+    <h3> Questions based on mathematics-1 </h3>
+    <h5>Level : Easy</h5>
+    <table class="table">
+      <tr>
+        <th>Problem Name </th>
+        <th>Platform </th>
+        <th>Problem Link </th>
+        <th>Solution </th>
+      </tr>
+      <tr>
+          <td>KFOLD</td>
+          <td>Codechef</td>
+          <td><a href="https://www.codechef.com/COOK121B/problems/KFOLD">Problem Link</a></td>
+          <td><a href="#!">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Distance and Axis</td>
+        <td>CodeForces</td>
+        <td><a href="https://codeforces.com/contest/1401/problem/A">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Even Odd Query</td>
+        <td>HackerRank</td>
+        <td><a href="https://www.hackerrank.com/challenges/even-odd-query/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Filling jars</td>
+        <td>HackerRank</td>
+        <td><a href="https://www.hackerrank.com/challenges/filling-jars/problem">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+      </tr>
+     </table>
+     <table class="table">
+      <tr>
+        <th>Problem Name </th>
+        <th>Platform </th>
+        <th>Problem Link </th>
+        <th>Solution </th>
+      </tr>
+      <tr>
+          <td>Drazil and Factorial</td>
+          <td>Code Forces</td>
+          <td><a href="https://codeforces.com/contest/515/problem/C">Problem Link</a></td>
+          <td><a href="#!">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Sherlock and Permutations</td>
+        <td>HackerRank</td>
+        <td><a href="https://www.hackerrank.com/challenges/sherlock-and-permutations/problem?h_r=next-challenge&h_v=zen">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Easy math</td>
+        <td>HackerRank</td>
+        <td><a href="https://www.hackerrank.com/challenges/easy-math/problem">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+      </tr>
+     </table>
+     <table class="table">
+      <tr>
+        <th>Problem Name </th>
+        <th>Platform </th>
+        <th>Problem Link </th>
+        <th>Solution </th>
+      </tr>
+      <tr>
+          <td>Celix Update</td>
+          <td>Code Forces</td>
+          <td><a href="https://codeforces.com/contest/1358/problem/C">Problem Link</a></td>
+          <td><a href="#!">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Superpowers of 2</td>
+        <td>HackerRank</td>
+        <td><a href="https://www.hackerrank.com/challenges/superpowers/problem">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+      </tr>
+     </table>
+</section>
+
 
  
