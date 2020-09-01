@@ -14,30 +14,73 @@ understanding about those topics. 👨🏻‍💻👩🏻‍💻
 A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Questions grouped by type.
 
 ## Table of Contents
-<ul>
-  <li><a href = '#-questions-based-on-logic-and-basic-mathematics-' >Logic and Basic Mathematics</a></li>
-  <li><a href = '#questions-based-on-linear-data-structures' >Linear Data Structures</a></li>
-  <li><a href = '#questions-based-on-linked-list'>Linked List</a></li>
-  <li><a href = '#-questions-based-on-mathematics-1-'>Mathematics-1</a></li>
-  <li>Searching and sorting</li>
-  <li>Recursion and Backtracking</li>
-  <li>Greedy</li>
-  <li>Trees</li>
-  <li>Graphs</li>
-  <li>Dynamic Programming</li>
-  <li>Bit Manipulation</li>
-  <li>Mathematics-2</li>
-  
-</ul>
-
-## Session Videos
-<ul>
-  <li><a href = 'https://youtu.be/xwK6rYZf9XA' >Session 1: Logic and Basic Mathematics</a></li>
-</ul>
-<ul>
-  <li><a href = 'https://youtu.be/nnpp5bXxQ9c' >Session 2: Linear Data Structures</a></li>
-</ul>
-<hr>
+  <table class="table">
+    <tr>
+      <th>Topic</th>
+      <th>Youtube Link</th>
+      <th>Instructor</th>
+    </tr>
+    <tr>
+      <td><a href = '#-questions-based-on-logic-and-basic-mathematics-' >Logic and Basic Mathematics</a></td>
+      <td><a href="https://youtu.be/xwK6rYZf9XA">Link</a></td>
+      <td>Harsh Katkade, Vedant Kokate, Prasuk Jain</td>
+    </tr>
+    <tr>
+      <td><a href = '#questions-based-on-linear-data-structures' >Linear Data Structures</a></td>
+      <td><a href="https://youtu.be/nnpp5bXxQ9c">Link</a></td>
+      <td>Mustansir Kapasi, Prasuk Jain, Arghyadeep Karmakar </td>
+    </tr>
+    <tr>
+      <td><a href = '#questions-based-on-linked-list'>Linked List</a></td>
+      <td><a href="https://youtu.be/a1T9wtHR2o4">Link</a></td>
+      <td>Keshav Mishra, Mohil Khare, Arghyadeep Karmakar</td>
+    </tr>
+    <tr>
+      <td><a href = '#-questions-based-on-mathematics-1-'>Mathematics-1</a></td>
+      <td><a href="#!">Link</a></td>
+      <td>Harsh Katkade, Mustansir Kapasi, Mohil Khare</td>
+    </tr>
+    <tr>
+      <td>Searching and sorting</td>
+      <td><a href="#!">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Recursion and Backtracking</td>
+      <td><a href="#!">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Greedy</td>
+      <td><a href="#!">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trees</td>
+      <td><a href="#!">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Graphs</td>
+      <td><a href="#!">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dynamic Programming</td>
+      <td><a href="#!">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Bit Manipulation</td>
+      <td><a href="#!">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Mathematics-2</td>
+      <td><a href="#!">Link</a></td>
+      <td></td>
+    </tr>
+  </table>
 
 <section id = 'logic'>
   <h2> Questions based on Logic and basic mathematics </h2>
@@ -596,7 +639,14 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td><a href="https://www.hackerrank.com/challenges/filling-jars/problem">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
       </tr>
+       <tr>
+        <td>Lord of the rings</td>
+        <td>CodeChef</td>
+        <td><a href="https://www.codechef.com/PCO12020/problems/LOTR1">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+      </tr>
      </table>
+     <h5>Level : Medium </h5>
      <table class="table">
       <tr>
         <th>Problem Name </th>
@@ -622,7 +672,14 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td><a href="https://www.hackerrank.com/challenges/easy-math/problem">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
       </tr>
+      <tr>
+        <td>Simple Number :)</td>
+        <td>Leet Code</td>
+        <td><a href="https://leetcode.com/problems/single-number/">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+      </tr>
      </table>
+     <h5>Level : Hard </h5>
      <table class="table">
       <tr>
         <th>Problem Name </th>
@@ -640,6 +697,12 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td>Superpowers of 2</td>
         <td>HackerRank</td>
         <td><a href="https://www.hackerrank.com/challenges/superpowers/problem">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Heidi learns hashing</td>
+        <td>Code Forces</td>
+        <td><a href="https://codeforces.com/problemset/problem/1184/A1">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
       </tr>
      </table>
