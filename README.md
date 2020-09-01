@@ -18,7 +18,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
   <li><a href = '#-questions-based-on-logic-and-basic-mathematics-' >Logic and Basic Mathematics</a></li>
   <li><a href = '#questions-based-on-linear-data-structures' >Linear Data Structures</a></li>
   <li><a href = '#questions-based-on-linked-list'>Linked List</a></li>
-  <li>Mathematics-1</li>
+  <li><a href = 'https://github.com/Infinite-Loop-KJSIEIT/Algo-Talks#-questions-based-on-mathematics-1-'>Mathematics-1</li>
   <li>Searching and sorting</li>
   <li>Recursion and Backtracking</li>
   <li>Greedy</li>
