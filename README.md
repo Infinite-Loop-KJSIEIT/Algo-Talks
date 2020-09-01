@@ -23,7 +23,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
     <tr>
       <td><a href = '#-questions-based-on-logic-and-basic-mathematics-' >Logic and Basic Mathematics</a></td>
       <td><a href="https://youtu.be/xwK6rYZf9XA">Link</a></td>
-      <td>Harsh Katkade, Vedant Kokate, Prasuk Jain</td>
+      <td>`Harsh Katkade`, `Vedant Kokate`, `Prasuk Jain`</td>
     </tr>
     <tr>
       <td><a href = '#questions-based-on-linear-data-structures' >Linear Data Structures</a></td>
