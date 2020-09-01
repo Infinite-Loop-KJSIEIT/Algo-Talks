@@ -18,7 +18,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
     <tr>
       <th>Topic</th>
       <th>Youtube Link</th>
-      <th>Instructor</th>
+      <th>Instructors</th>
     </tr>
     <tr>
       <td><a href = '#-questions-based-on-logic-and-basic-mathematics-' >Logic and Basic Mathematics</a></td>
