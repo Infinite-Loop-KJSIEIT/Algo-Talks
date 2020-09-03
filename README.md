@@ -616,6 +616,12 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <th>Solution </th>
       </tr>
       <tr>
+          <td>Exponentiation</td>
+          <td>CSES</td>
+          <td><a href="https://cses.fi/problemset/task/1712">Problem Link</a></td>
+          <td><a href="#!">Solution</a></td>
+      </tr>
+      <tr>
           <td>KFOLD</td>
           <td>Codechef</td>
           <td><a href="https://www.codechef.com/COOK121B/problems/KFOLD">Problem Link</a></td>
@@ -628,6 +634,12 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td><a href="#!">Solution</a></td>
       </tr>
       <tr>
+      <tr>
+        <td>Lord of the rings</td>
+        <td>CodeChef</td>
+        <td><a href="https://www.codechef.com/PCO12020/problems/LOTR1">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+      </tr>
         <td>Even Odd Query</td>
         <td>HackerRank</td>
         <td><a href="https://www.hackerrank.com/challenges/even-odd-query/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen">Problem Link</a></td>
@@ -639,13 +651,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td><a href="https://www.hackerrank.com/challenges/filling-jars/problem">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
       </tr>
-       <tr>
-        <td>Lord of the rings</td>
-        <td>CodeChef</td>
-        <td><a href="https://www.codechef.com/PCO12020/problems/LOTR1">Problem Link</a></td>
-        <td><a href="#!">Solution</a></td>
-      </tr>
-     </table>
+      </table>
      <h5>Level : Medium </h5>
      <table class="table">
       <tr>
