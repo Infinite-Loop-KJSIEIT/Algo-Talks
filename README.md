@@ -651,6 +651,18 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td><a href="https://www.hackerrank.com/challenges/filling-jars/problem">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
       </tr>
+      <tr>
+        <td>PolynomPrime</td>
+        <td>Topcoder</td>
+        <td><a href="https://community.topcoder.com/stat?c=problem_statement&pm=4475&rd=8012">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Missing Point</td>
+        <td>CodeChef</td>
+        <td><a href="https://www.codechef.com/JULY20B/problems/PTMSSNG">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+      </tr>
       </table>
      <h5>Level : Medium </h5>
      <table class="table">
@@ -667,7 +679,7 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
           <td><a href="#!">Solution</a></td>
       </tr>
       <tr>
-        <td>Simple Number :)</td>
+        <td>Single Number</td>
         <td>Leet Code</td>
         <td><a href="https://leetcode.com/problems/single-number/">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
