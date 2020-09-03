@@ -3,7 +3,7 @@ Algo Talks is a weekly learning series. Each Sunday we take one major topic rang
 to dynamic programming and we go LIVE to solve a bunch of curated problems aimed to better our 
 understanding about those topics. 👨🏻‍💻👩🏻‍💻
 
-`Register Here` : <a href = "https://infiniteloop.club/#events">https://infiniteloop.club/#events</a>
+`Register Here :` <a href = "https://infiniteloop.club/#events">https://infiniteloop.club/#events</a>
 
 `Follow us for more updates on Instagram:`<a href = "https://www.instagram.com/infiniteloop.kjsieit/" >www.instagram.com/infiniteloop.kjsieit</a>
 
@@ -688,10 +688,22 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <th>Solution </th>
       </tr>
       <tr>
-          <td>Celix Update</td>
-          <td>Code Forces</td>
-          <td><a href="https://codeforces.com/contest/1358/problem/C">Problem Link</a></td>
-          <td><a href="#!">Solution</a></td>
+        <td>Celix Update</td>
+        <td>Code Forces</td>
+        <td><a href="https://codeforces.com/contest/1358/problem/C">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+      </tr>      
+      <tr>
+        <td>Heidi learns hashing</td>
+        <td>Code Forces</td>
+        <td><a href="https://codeforces.com/problemset/problem/1184/A1">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Many Squares</td>
+        <td>CodeChef</td>
+        <td><a href="https://www.codechef.com/PCO12020/problems/MANSQ">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
       </tr>
       <tr>
         <td>Superpowers of 2</td>
@@ -700,9 +712,15 @@ A curated list of  `Competitive Programming`, `Algorithm` and `Data Structure` Q
         <td><a href="#!">Solution</a></td>
       </tr>
       <tr>
-        <td>Heidi learns hashing</td>
+        <td>Bad Triangle</td>
         <td>Code Forces</td>
-        <td><a href="https://codeforces.com/problemset/problem/1184/A1">Problem Link</a></td>
+        <td><a href="https://codeforces.com/problemset/problem/1398/A">Problem Link</a></td>
+        <td><a href="#!">Solution</a></td>
+      </tr>
+      <tr>
+        <td>Aerodynamic</td>
+        <td>Code Forces</td>
+        <td><a href="https://codeforces.com/problemset/problem/1299/B">Problem Link</a></td>
         <td><a href="#!">Solution</a></td>
       </tr>
      </table>
